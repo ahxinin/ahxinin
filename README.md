@@ -1,5 +1,12 @@
-### Hi there 👋
-
+- 👋 Hi, I‘m ahxin, A Software Engineer.
+- 👀 I'm interested in
+  - Backend Software Engineering
+  - System Architecture
+  - Microservice & Distributed Service
+- 🌱 I’m currently learning
+  - Algorithm
+- 📫 How to reach me
+  - Email: ahmu2011@gmail.com
 <!--
 **ahxinin/ahxinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
