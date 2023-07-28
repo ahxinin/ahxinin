@@ -7,6 +7,9 @@
   - Algorithm
 - 📫 How to reach me
   - Email: ahmu2011@gmail.com
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahxinin)](https://git.io/streak-stats)
+
 <!--
 **ahxinin/ahxinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
